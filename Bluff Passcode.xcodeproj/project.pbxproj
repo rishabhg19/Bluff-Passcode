@@ -3,10 +3,11 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 53;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E06B005B24F3634F007FA367 /* CardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E06B005A24F3634F007FA367 /* CardViewController.swift */; };
 		E0C7DE6024EF4DE7008CAD16 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0C7DE5F24EF4DE7008CAD16 /* AppDelegate.swift */; };
 		E0C7DE6224EF4DE7008CAD16 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0C7DE6124EF4DE7008CAD16 /* SceneDelegate.swift */; };
 		E0C7DE6424EF4DE7008CAD16 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0C7DE6324EF4DE7008CAD16 /* ViewController.swift */; };
@@ -16,6 +17,13 @@
 		E0C7DE6F24EF4DE9008CAD16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0C7DE6D24EF4DE9008CAD16 /* LaunchScreen.storyboard */; };
 		E0C7DE7A24EF4DE9008CAD16 /* Bluff_PasscodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0C7DE7924EF4DE9008CAD16 /* Bluff_PasscodeTests.swift */; };
 		E0C7DE8524EF4DE9008CAD16 /* Bluff_PasscodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0C7DE8424EF4DE9008CAD16 /* Bluff_PasscodeUITests.swift */; };
+		E0DF950E24F4361500009C6A /* Bluff Passcode material in Resources */ = {isa = PBXBuildFile; fileRef = E0DF950D24F4361500009C6A /* Bluff Passcode material */; };
+		E0ECA450277A9A3F008EAB25 /* IMG_6114.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0ECA44F277A9A3F008EAB25 /* IMG_6114.jpg */; };
+		E0ECA455277A9A49008EAB25 /* buttons in Resources */ = {isa = PBXBuildFile; fileRef = E0ECA454277A9A48008EAB25 /* buttons */; };
+		E0ECA45A277A9A62008EAB25 /* IMG_6111.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0ECA459277A9A62008EAB25 /* IMG_6111.jpg */; };
+		E0ECA45F277A9A6E008EAB25 /* IMG_6136.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0ECA45E277A9A6E008EAB25 /* IMG_6136.jpg */; };
+		E0ECA464277A9A78008EAB25 /* IMG_6137.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0ECA463277A9A78008EAB25 /* IMG_6137.jpg */; };
+		E0ECA469277A9A84008EAB25 /* circleImages in Resources */ = {isa = PBXBuildFile; fileRef = E0ECA468277A9A84008EAB25 /* circleImages */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E06B005A24F3634F007FA367 /* CardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardViewController.swift; sourceTree = "<group>"; };
 		E0C7DE5C24EF4DE7008CAD16 /* Bluff Passcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bluff Passcode.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0C7DE5F24EF4DE7008CAD16 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E0C7DE6124EF4DE7008CAD16 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +60,14 @@
 		E0C7DE8024EF4DE9008CAD16 /* Bluff PasscodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Bluff PasscodeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0C7DE8424EF4DE9008CAD16 /* Bluff_PasscodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bluff_PasscodeUITests.swift; sourceTree = "<group>"; };
 		E0C7DE8624EF4DE9008CAD16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0C7DE9224EF4E00008CAD16 /* Bluff Passcode.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Bluff Passcode.entitlements"; sourceTree = "<group>"; };
+		E0DF950D24F4361500009C6A /* Bluff Passcode material */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Bluff Passcode material"; sourceTree = SOURCE_ROOT; };
+		E0ECA44F277A9A3F008EAB25 /* IMG_6114.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_6114.jpg; path = ../../../../../../Downloads/IMG_6114.jpg; sourceTree = "<group>"; };
+		E0ECA454277A9A48008EAB25 /* buttons */ = {isa = PBXFileReference; lastKnownFileType = folder; name = buttons; path = ../../../../../../Downloads/buttons; sourceTree = "<group>"; };
+		E0ECA459277A9A62008EAB25 /* IMG_6111.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_6111.jpg; path = ../../../../../../Downloads/IMG_6111.jpg; sourceTree = "<group>"; };
+		E0ECA45E277A9A6E008EAB25 /* IMG_6136.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_6136.jpg; path = ../../../../../../Downloads/IMG_6136.jpg; sourceTree = "<group>"; };
+		E0ECA463277A9A78008EAB25 /* IMG_6137.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_6137.jpg; path = ../../../../../../Downloads/IMG_6137.jpg; sourceTree = "<group>"; };
+		E0ECA468277A9A84008EAB25 /* circleImages */ = {isa = PBXFileReference; lastKnownFileType = folder; name = circleImages; path = ../../../../../../Downloads/circleImages; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,14 +118,23 @@
 		E0C7DE5E24EF4DE7008CAD16 /* Bluff Passcode */ = {
 			isa = PBXGroup;
 			children = (
+				E0DF950D24F4361500009C6A /* Bluff Passcode material */,
+				E0C7DE9224EF4E00008CAD16 /* Bluff Passcode.entitlements */,
 				E0C7DE5F24EF4DE7008CAD16 /* AppDelegate.swift */,
 				E0C7DE6124EF4DE7008CAD16 /* SceneDelegate.swift */,
 				E0C7DE6324EF4DE7008CAD16 /* ViewController.swift */,
+				E0ECA45E277A9A6E008EAB25 /* IMG_6136.jpg */,
+				E0ECA459277A9A62008EAB25 /* IMG_6111.jpg */,
+				E0ECA44F277A9A3F008EAB25 /* IMG_6114.jpg */,
+				E0ECA463277A9A78008EAB25 /* IMG_6137.jpg */,
+				E0ECA468277A9A84008EAB25 /* circleImages */,
+				E0ECA454277A9A48008EAB25 /* buttons */,
 				E0C7DE6524EF4DE7008CAD16 /* Main.storyboard */,
 				E0C7DE6B24EF4DE9008CAD16 /* Assets.xcassets */,
 				E0C7DE6D24EF4DE9008CAD16 /* LaunchScreen.storyboard */,
 				E0C7DE7024EF4DE9008CAD16 /* Info.plist */,
 				E0C7DE6824EF4DE7008CAD16 /* Bluff_Passcode.xcdatamodeld */,
+				E06B005A24F3634F007FA367 /* CardViewController.swift */,
 			);
 			path = "Bluff Passcode";
 			sourceTree = "<group>";
@@ -210,7 +236,7 @@
 				};
 			};
 			buildConfigurationList = E0C7DE5724EF4DE6008CAD16 /* Build configuration list for PBXProject "Bluff Passcode" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 11.4";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -234,9 +260,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0DF950E24F4361500009C6A /* Bluff Passcode material in Resources */,
 				E0C7DE6F24EF4DE9008CAD16 /* LaunchScreen.storyboard in Resources */,
+				E0ECA469277A9A84008EAB25 /* circleImages in Resources */,
+				E0ECA455277A9A49008EAB25 /* buttons in Resources */,
+				E0ECA464277A9A78008EAB25 /* IMG_6137.jpg in Resources */,
+				E0ECA45A277A9A62008EAB25 /* IMG_6111.jpg in Resources */,
 				E0C7DE6C24EF4DE9008CAD16 /* Assets.xcassets in Resources */,
+				E0ECA450277A9A3F008EAB25 /* IMG_6114.jpg in Resources */,
 				E0C7DE6724EF4DE7008CAD16 /* Main.storyboard in Resources */,
+				E0ECA45F277A9A6E008EAB25 /* IMG_6136.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,6 +295,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E0C7DE6424EF4DE7008CAD16 /* ViewController.swift in Sources */,
+				E06B005B24F3634F007FA367 /* CardViewController.swift in Sources */,
 				E0C7DE6024EF4DE7008CAD16 /* AppDelegate.swift in Sources */,
 				E0C7DE6224EF4DE7008CAD16 /* SceneDelegate.swift in Sources */,
 				E0C7DE6A24EF4DE7008CAD16 /* Bluff_Passcode.xcdatamodeld in Sources */,
@@ -440,17 +474,24 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Bluff Passcode/Bluff Passcode.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NSQ3S7X8DG;
 				INFOPLIST_FILE = "Bluff Passcode/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Deceptik.Bluff-Passcode";
+				PRODUCT_BUNDLE_IDENTIFIER = "Rishabh-Ganesh.Bluff-Passcode";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -459,17 +500,24 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Bluff Passcode/Bluff Passcode.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NSQ3S7X8DG;
 				INFOPLIST_FILE = "Bluff Passcode/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Deceptik.Bluff-Passcode";
+				PRODUCT_BUNDLE_IDENTIFIER = "Rishabh-Ganesh.Bluff-Passcode";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -481,7 +529,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NSQ3S7X8DG;
 				INFOPLIST_FILE = "Bluff PasscodeTests/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -503,7 +551,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NSQ3S7X8DG;
 				INFOPLIST_FILE = "Bluff PasscodeTests/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -521,15 +569,18 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NSQ3S7X8DG;
 				INFOPLIST_FILE = "Bluff PasscodeUITests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "Deceptik.Bluff-PasscodeUITests";
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=macosx*]" = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -541,15 +592,18 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NSQ3S7X8DG;
 				INFOPLIST_FILE = "Bluff PasscodeUITests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "Deceptik.Bluff-PasscodeUITests";
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=macosx*]" = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
